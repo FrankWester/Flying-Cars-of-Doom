@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 2ea98bde1b2da984fa9ff3fb291829dc
+timeCreated: 1515839164
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Collision_object
+    100002: Dashboard
+    100004: Interior
+    100006: Lights_back
+    100008: Lights_front
+    100010: Lights_front_window
+    100012: //RootNode
+    100014: Tocus_Body
+    100016: Tocus_steeringwheel
+    100018: Tocus_Wheel_Left_Back
+    100020: Tocus_Wheel_Left_Font
+    100022: Tocus_Wheel_Right_Back
+    100024: Tocus_Wheel_Right_Front
+    100026: Windows
+    100028: Wipers
+    400000: Collision_object
+    400002: Dashboard
+    400004: Interior
+    400006: Lights_back
+    400008: Lights_front
+    400010: Lights_front_window
+    400012: //RootNode
+    400014: Tocus_Body
+    400016: Tocus_steeringwheel
+    400018: Tocus_Wheel_Left_Back
+    400020: Tocus_Wheel_Left_Font
+    400022: Tocus_Wheel_Right_Back
+    400024: Tocus_Wheel_Right_Front
+    400026: Windows
+    400028: Wipers
+    2300000: Collision_object
+    2300002: Dashboard
+    2300004: Interior
+    2300006: Lights_back
+    2300008: Lights_front
+    2300010: Lights_front_window
+    2300012: Tocus_Body
+    2300014: Tocus_steeringwheel
+    2300016: Tocus_Wheel_Left_Back
+    2300018: Tocus_Wheel_Left_Font
+    2300020: Tocus_Wheel_Right_Back
+    2300022: Tocus_Wheel_Right_Front
+    2300024: Windows
+    2300026: Wipers
+    3300000: Collision_object
+    3300002: Dashboard
+    3300004: Interior
+    3300006: Lights_back
+    3300008: Lights_front
+    3300010: Lights_front_window
+    3300012: Tocus_Body
+    3300014: Tocus_steeringwheel
+    3300016: Tocus_Wheel_Left_Back
+    3300018: Tocus_Wheel_Left_Font
+    3300020: Tocus_Wheel_Right_Back
+    3300022: Tocus_Wheel_Right_Front
+    3300024: Windows
+    3300026: Wipers
+    4300000: Tocus_Body
+    4300002: Collision_object
+    4300004: Interior
+    4300006: Lights_front_window
+    4300008: Windows
+    4300010: Lights_front
+    4300012: Tocus_Wheel_Left_Font
+    4300014: Tocus_Wheel_Right_Front
+    4300016: Tocus_Wheel_Right_Back
+    4300018: Tocus_Wheel_Left_Back
+    4300020: Tocus_steeringwheel
+    4300022: Dashboard
+    4300024: Wipers
+    4300026: Lights_back
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dno
+    second: {fileID: 2100000, guid: 3c2af60ac6d3d3e40b660da7117b8298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Focus_Body
+    second: {fileID: 2100000, guid: e05a11021402d6f409410f77d3c5cc3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Focus_Chrome
+    second: {fileID: 2100000, guid: c3f7b0de10f20014d92b12bda90f1702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Focus_Exhaust_Pipe
+    second: {fileID: 2100000, guid: f7d095877b0d6f442bc3bc669ee76312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Focus_Grid
+    second: {fileID: 2100000, guid: 0b04082b23e28f040a92bc2024e4ff04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Focus_Insade
+    second: {fileID: 2100000, guid: 850051b8963511542821692ed4e0f9e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Focus_Ligth
+    second: {fileID: 2100000, guid: 7715b8733b14f3948bde2a5b2e8f9a6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Focus_Plastics
+    second: {fileID: 2100000, guid: 398d8183813437448b65858fa4a1348f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Focus_Salon
+    second: {fileID: 2100000, guid: a3193c2ea66dac14185f2e8eeeb4bdaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Focus_Seat
+    second: {fileID: 2100000, guid: a442c8ad28742214eb43e03a0f69848f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Focus_Spring
+    second: {fileID: 2100000, guid: c0183c513e992724da34598abef415e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Focus_Steering_wheel
+    second: {fileID: 2100000, guid: 02511d6f53bdff24dbb6f25f3c43ccb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Focus_Wheel
+    second: {fileID: 2100000, guid: fa6ee6d580b6bd843865eba9cc894f09, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
