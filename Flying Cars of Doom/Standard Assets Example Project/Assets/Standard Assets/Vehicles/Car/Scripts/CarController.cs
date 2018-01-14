@@ -55,6 +55,9 @@ namespace UnityStandardAssets.Vehicles.Car
         public float Revs { get; private set; }
         public float AccelInput { get; private set; }
 
+        private float _currentSpeed;
+        public float currentSpeed { get { return _currentSpeed; } protected set { currentSpeed = _currentSpeed; } }
+
         // Use this for initialization
         private void Start()
         {
@@ -190,6 +193,7 @@ namespace UnityStandardAssets.Vehicles.Car
                         m_Rigidbody.velocity = (m_Topspeed/3.6f) * m_Rigidbody.velocity.normalized;
                     break;
             }
+            _currentSpeed = speed;
         }
 
 

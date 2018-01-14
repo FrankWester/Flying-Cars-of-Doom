@@ -4,8 +4,38 @@ timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: him
-  externalObjects: {}
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_anim_eyeBallMcharacter_anim_file13
+    second: {fileID: 2100000, guid: 8c5e865aa785d5347a3197f8e3993050, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_anim_headMcharacter_anim_file2
+    second: {fileID: 2100000, guid: 49e1970c2ec86c14785b4842c203b860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_anim_jacketMcharacter_anim_file1
+    second: {fileID: 2100000, guid: 96cc51f5fb6db2d4289adccd12f3a991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_anim_pantsMcharacter_anim_file6
+    second: {fileID: 2100000, guid: 81fa536b9d9f3d948978e7698b8c6222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_anim_upBodyMcharacter_anim_file8
+    second: {fileID: 2100000, guid: 696af1e4ea58192498d011ececd4edc9, type: 2}
   materials:
     importMaterials: 1
     materialName: 3

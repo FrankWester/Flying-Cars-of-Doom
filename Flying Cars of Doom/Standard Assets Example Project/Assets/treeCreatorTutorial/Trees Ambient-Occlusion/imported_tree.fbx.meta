@@ -4,8 +4,23 @@ timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: Polygon
-  externalObjects: {}
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Optimized_Bark
+    second: {fileID: 2100000, guid: cbbc4352142b2451c959bdf3487155b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Optimized_Leaves
+    second: {fileID: 2100000, guid: aed338bd6cdaf4e559c300f7a72e40eb, type: 2}
   materials:
     importMaterials: 1
     materialName: 3
